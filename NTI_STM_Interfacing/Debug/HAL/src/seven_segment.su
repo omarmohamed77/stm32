@@ -1,0 +1,2 @@
+seven_segment.c:27:6:Segment_Init	4	static
+seven_segment.c:44:6:Segment_Display	16	static

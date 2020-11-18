@@ -1,0 +1,12 @@
+core_cm4.h:1452:22:NVIC_EnableIRQ	16	static
+timer.c:12:6:Timer_BaseInit	4	static
+timer.c:24:6:Timer_DelaysMS	16	static
+timer.c:32:6:Timer_DelayUS	16	static
+timer.c:42:6:Timer_CaptureInit	8	static
+timer.c:84:6:TIM1_CC_IRQHandler	4	static
+timer.c:95:6:Timer_PWMInit	4	static
+timer.c:136:6:Timer_PWM_SetDuty	32	static
+timer.c:139:6:Timer_PWMIncDuty	32	static
+timer.c:148:6:Timer_PWMDecDuty	32	static
+timer.c:157:6:Timer_PWM_LED_Init	4	static
+timer.c:198:6:Timer_PWM_Set_LED_Duty	32	static

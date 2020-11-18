@@ -1,0 +1,11 @@
+lcd.c:14:13:LCD_GotoXY	16	static
+lcd.c:25:13:LCD_SendCMD	16	static
+lcd.c:50:6:LCD_Clear	8	static
+lcd.c:55:13:LCD_SendData	16	static
+lcd.c:80:6:LCD_Init	8	static
+lcd.c:104:6:LCD_DispChar	16	static
+lcd.c:107:6:LCD_DispCharXY	16	static
+lcd.c:111:6:LCD_DispStr	24	static
+lcd.c:120:6:LCD_DispStrXY	16	static
+lcd.c:124:6:LCD_DispInt	32	static
+lcd.c:132:6:LCD_DispIntXY	16	static
